@@ -1,0 +1,11 @@
+wp-admin
+wp-includes
+/*.php
+.htaccess
+license.txt
+readme.html
+wp-content/*
+!wp-content/plugins
+wp-content/plugins/*
+!wp-content/plugins/contador-matricula
+!wp-content/plugins/guarderia-cpt
