@@ -1,0 +1,15 @@
+#contador-matriculas {
+    background:white;
+    border-radius:10px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width:150px;
+    text-align: center;
+    margin:20px;
+    padding:10px 0 0px 0;
+    color: #C58C38;
+}
+#contador-matriculas p{
+    background:#f3f6fa;
+    border-radius: 00px 0px 10px 10px;
+   
+}
